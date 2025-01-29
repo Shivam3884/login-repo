@@ -1,2 +1,2 @@
-# login-repo
- basic login signup logic with express
+# To run this code you need to install these npm modules 
+express,jsonwebtoken,hbs,mongoose,cookie-parser,bcryptjs,path
